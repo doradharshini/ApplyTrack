@@ -41,6 +41,12 @@ curl -X POST localhost:8080/api/applications \
 mvn test
 ```
 
+## Design docs
+
+- [User flow](docs/user-flow.md)
+- [High-level design](docs/hld.md)
+- [Low-level design](docs/lld.md)
+
 ## Roadmap
 
 - Contacts and interview notes per application
